@@ -1,4 +1,5 @@
-@font-face {
-    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
-    src: url();
+header {
+    margin: 0;
+    padding: 0;
+    background-color: grey;
 }
